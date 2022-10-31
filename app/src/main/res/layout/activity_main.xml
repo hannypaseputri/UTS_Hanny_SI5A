@@ -37,6 +37,7 @@
         android:id="@+id/sp_Jalur_Pendaftaraan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:entries="@array/arr_jalurpendaftaraan"
         android:layout_below="@id/et_nomor_pendaftaran"/>
 
     <CheckBox
